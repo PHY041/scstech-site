@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.scstech.com.cn/sitemap.xml
+Sitemap: https://www.scsbelt.com/sitemap.xml
